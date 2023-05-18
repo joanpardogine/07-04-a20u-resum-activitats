@@ -2,7 +2,7 @@
 
 ### **1.** Crear un **repositori local** anomenat **```<CognomAlumne>-a20u-resum-activitats```**, a on **```<cognomAlumne>```** és **només el cognom de l'alumne**, sense el nom de l'alumne.
 
-### **2.** Crear un **repositori remot**, **privat**, anomenat **```<CognomAlumne>-a19ua20u-resum-activitats```**, i convidar a l'usuari **```joanpardogine```**, a on **```<cognomAlumne>```** és **només el cognom de l'alumne**, sense el nom de l'alumne.
+### **2.** Crear un **repositori remot**, **privat**, anomenat **```<CognomAlumne>-a20u-resum-activitats```**, i convidar a l'usuari **```joanpardogine```**, a on **```<cognomAlumne>```** és **només el cognom de l'alumne**, sense el nom de l'alumne.
  
 
 ### **3.** En el README.md crear el següent:
