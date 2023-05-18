@@ -23,7 +23,6 @@
 
 * Com a títol de nivell 2 => **```##```**
 ## A163 - Activitat 16 (3a part): Explicació de la instal·lació, la configuració del domini a Windows, com afegir els equips clients al domini.
-## E19J - Examen, divendres 21 d'abril 2023 (20230421)
  
 * Com a títol de nivell 1 => **```#```**
 # (M07)/UF4-Accés a sistemes remots
@@ -31,8 +30,8 @@
 * Com a títol de nivell 2 => **```##```**
 ## A164 - Activitat 16 (4a part): Explicació detallada encaminament
 ## A19U - Activitat 19: Servidor web windows
-## E20J - Activitat 20: Resum activitats darreres dues UFs
-## E21J - Examen, dijous 25 de maig de 2023 (20230525)
+## A20J - Activitat 20: Resum activitats darreres dues UFs
+
 
 ### **5.** De cada activitat fer les següents seccions:
 
@@ -66,5 +65,5 @@
 > bla, bla, bla...
 
 
-
+I així amb o 
 

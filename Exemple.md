@@ -11,7 +11,7 @@
 # (M07)/UF4-Accés a sistemes remots
 ## A164 - Activitat 16 (4a part): Explicació detallada encaminament
 ## A19U - Activitat 19: Servidor web windows
-## E20J - Activitat 20: Resum activitats darreres dues UFs
+## A20J - Activitat 20: Resum activitats darreres dues UFs
 ## E21J - Examen, dijous 25 de maig de 2023 (20230525)
 
 
